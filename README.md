@@ -1,5 +1,7 @@
 # Trabajo Final del Primer Bimestre
 
+# Miembros del grupo: Felipe Jiménez y Pablo Figueroa
+
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
